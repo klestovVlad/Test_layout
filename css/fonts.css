@@ -1,0 +1,96 @@
+/* noto-sans-hk-300 - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* noto-sans-hk-regular - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* noto-sans-hk-500 - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: medium;
+  font-weight: 500;
+  src: local(''),
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* noto-sans-hk-700 - latin */
+@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: bold;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/noto-sans-hk-v6-latin/noto-sans-hk-v6-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/montserrat-v15-latin/montserrat-v15-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/montsebuttonrat-v15-latin/montserrat-v15-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-700 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: bold;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/montserrat-v15-latin/montserrat-v15-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/montserrat-v15-latin/montserrat-v15-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/roboto-v27-latin/roboto-v27-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v27-latin/roboto-v27-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-500 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+       url('../fonts/roboto-v27-latin/roboto-v27-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v27-latin/roboto-v27-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+
+@font-face {
+	font-family: 'AvenirNextCyr-Medium';
+	src: url('../fonts/avenirnextcyr/avenirnextcyr-medium.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/avenirnextcyr/avenirnextcyr-medium.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/avenirnextcyr/avenirnextcyr-medium.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/avenirnextcyr/avenirnextcyr-medium.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/avenirnextcyr/avenirnextcyr-medium.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/avenirnextcyr/avenirnextcyr-medium.svg#avenirnextcyr-medium') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Regular';
+	src: url('../fonts/avenirnextcyr/avenirnextcyr-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/avenirnextcyr/avenirnextcyr-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/avenirnextcyr/avenirnextcyr-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/avenirnextcyr/avenirnextcyr-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/avenirnextcyr/avenirnextcyr-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/avenirnextcyr/avenirnextcyr-regular.svg#avenirnextcyr-regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
