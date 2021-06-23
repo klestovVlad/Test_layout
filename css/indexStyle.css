@@ -39,6 +39,9 @@ dl,
 dd {
   margin: 0;
 }
+html{
+	overflow-x: hidden;
+}
 
 /* Выставляем основные настройки по-умолчанию для body */
 body {
@@ -196,6 +199,7 @@ header{
 	.bigSection{
 		padding: 100px 15px 15px;
 		min-height: 100vh;
+		height: 900px;
 	}
 }
 
@@ -1292,6 +1296,13 @@ transform: rotate(-0.55deg) translate(-50%,-50%);
 	}
 }
 
+@media (max-width: 300px) {
+	.section7__caption-img{
+		top: 62%;
+		left: calc(50% + 5px);
+	}
+}
+
 
 
 
@@ -1504,6 +1515,13 @@ transform: rotate(-0.55deg) translate(-50%,-50%);
 	right: 13%;
 }
 
+@media (max-width: 300px) {
+	.section8__floating-text p:nth-child(3) {
+		top: 81%;
+		left: 5%;
+	}
+}
+
 .section8__content__decore{
 	position: absolute;
 	right: -25%;
@@ -1651,7 +1669,6 @@ transform: rotate(-0.55deg) translate(-50%,-50%);
 
 .inline-form input{
 	width: calc(50% - 12px);
-	min-width: 300px;
 }
 .inline-form input:nth-child(2){
 	margin-left: 23px;

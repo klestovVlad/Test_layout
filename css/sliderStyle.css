@@ -190,3 +190,7 @@ button{
 .dots ._active{
 	opacity: 1;
 }
+
+.fliker{
+	display: none;
+}
